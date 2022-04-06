@@ -3,4 +3,9 @@ Study with HTML, CSS, JS, Git and deployment.
 
 ## subheader
 
-Testing change.
+Testing changes.
+
+## Testing branches
+
+1. Create new branch.
+2. Merge with main.
