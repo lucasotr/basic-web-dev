@@ -1,5 +1,5 @@
 # basic-web-dev
-Study with HTML, CSS, JS, Git and deployment.
+Study with HTML, CSS, JS, Bootstrap, Github pages and deployment.
 
 ## subheader
 
